@@ -1,11 +1,18 @@
 ### Hi there 👋, my name is Ogodo Sylvester
 Frontend developer and web3 enthusiat.
-![I am a Frontend developer and web3 enthusiat.](https://media-exp1.licdn.com/dms/image/C5616AQH9lcQOw0YnfA/profile-displaybackgroundimage-shrink_200_800/0/1650383176670?e=2147483647&v=beta&t=9bAy95LxFbLRkniQ6ZxuYl1uIH0AkER-xf_aMbTIFwQ)
+![I am a Frontend developer and web3 enthusiat.](https://github.com/Thetwin21/Ogodo-Sylvester-N/blob/main/IMG_20220419_171837.jpg)
 
 I do content and development .I really enjoyed learning new languages and solving problems. I have built many websites that are great and awesome ,the ones which i love most is Estimator https://vermillion-vacherin-96ef73.netlify.app/ and Detwins Real Estate https://detwins-real-estate.vercel.app/ .
 I made this project for contractors and businessmen for easy calculation of profit percentage. https://vermillion-vacherin-96ef73.netlify.app/
 I love seeing new ideas on metaverse and blockchains.
-Skills: REACT.JS / JAVASCRIPT / HTML / CSS/ SASS / BOOSTRAP / NEXT.JS
+
+##SKILLS AND EXPERIENCE
+. ☸ React.js
+. 📱 Next.js
+. 🎀 SASS
+. 💻 CSS
+. 🎨 Boostrap
+. 👓 GraphQl
 
 - 🌱 I’m currently learning Web3 
 - 😄 Pronouns: He,him,his 
