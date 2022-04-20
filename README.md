@@ -7,12 +7,12 @@ I made this project for contractors and businessmen for easy calculation of prof
 I love seeing new ideas on metaverse and blockchains.
 
 ##SKILLS AND EXPERIENCE
-. ☸ React.js
-. 📱 Next.js
-. 🎀 SASS
-. 💻 CSS
-. 🎨 Boostrap
-. 👓 GraphQl
+## . ☸ React.js
+## . 📱 Next.js
+## . 🎀 SASS
+## . 💻 CSS
+## . 🎨 Boostrap
+## . 👓 GraphQl
 
 - 🌱 I’m currently learning Web3 
 - 😄 Pronouns: He,him,his 
